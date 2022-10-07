@@ -1,0 +1,8 @@
+aws_region       = "eu-central-l"
+owner_id         = "099720109477"
+ami_name         = "ubuntu/images/hvm-ssd/ubuntu-jammy-22.04-amd64-server-*"
+instance_type    = "t2.small"
+keypair          = "id_rsa"
+private_subnet_a = "private_az_a"
+private_subnet_b = "private_az_b"
+vpc_name         = "Talent-Academy"
